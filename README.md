@@ -1,5 +1,2 @@
 # GitLearning
-LearningGit
-add something
-modify in dev
-modify in dev again
+Git is a distributed version control system.
